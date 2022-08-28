@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/World-Wide-Lottery/static/css/main.0e170fb8.css",
-    "main.js": "/World-Wide-Lottery/static/js/main.a67a6328.js",
-    "static/js/787.06588480.chunk.js": "/World-Wide-Lottery/static/js/787.06588480.chunk.js",
-    "index.html": "/World-Wide-Lottery/index.html",
-    "main.0e170fb8.css.map": "/World-Wide-Lottery/static/css/main.0e170fb8.css.map",
-    "main.a67a6328.js.map": "/World-Wide-Lottery/static/js/main.a67a6328.js.map",
-    "787.06588480.chunk.js.map": "/World-Wide-Lottery/static/js/787.06588480.chunk.js.map"
+    "main.css": "/World-Wide-Lottery/home/static/css/main.0e170fb8.css",
+    "main.js": "/World-Wide-Lottery/home/static/js/main.deb761e1.js",
+    "static/js/787.06588480.chunk.js": "/World-Wide-Lottery/home/static/js/787.06588480.chunk.js",
+    "index.html": "/World-Wide-Lottery/home/index.html",
+    "main.0e170fb8.css.map": "/World-Wide-Lottery/home/static/css/main.0e170fb8.css.map",
+    "main.deb761e1.js.map": "/World-Wide-Lottery/home/static/js/main.deb761e1.js.map",
+    "787.06588480.chunk.js.map": "/World-Wide-Lottery/home/static/js/787.06588480.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e170fb8.css",
-    "static/js/main.a67a6328.js"
+    "static/js/main.deb761e1.js"
   ]
 }
